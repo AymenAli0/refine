@@ -1,8 +1,10 @@
 # refine
+An application to watch movies and series from multiple cultures, including Asian ones.
+The application is currently available on Android.
 # DOWNLOADS
 # GLOBAL [COPY]
-_DOWNLOAD
+DOWNLOAD
 # ANIME [COPY]
-_DOWNLOAD
+DOWNLOAD
 # KIDS [COPY]
-_DOWNLOAD
+DOWNLOAD
