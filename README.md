@@ -1,10 +1,10 @@
-# refine
+# REFINE
 An application to watch movies and series from multiple cultures, including Asian ones.
 # DOWNLOADS
 The application is currently available on Android.
-## GLOBAL [COPY]
+## REFINE GLOBAL
 [DOWNLOAD](https://www.google.com)
-## ANIME [COPY]
+## REFINE ANIME
 [DOWNLOAD](https://www.google.com)
-## KIDS [COPY]
+## REFINE KIDS
 [DOWNLOAD](https://www.google.com)
